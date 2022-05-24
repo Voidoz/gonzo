@@ -1,0 +1,12 @@
+[package]
+name = "gonzo"
+version = "0.0.0"
+license = "AGPL-3.0"
+description = "Name reservation"
+documentation = ""
+homepage = ""
+repository = ""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
